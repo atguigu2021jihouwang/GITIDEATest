@@ -1,0 +1,28 @@
+# 配置RabbitMQ
+spring:
+  rabbitmq:
+    # 默认 localhost
+    host: localhost
+    username: guest
+    password: guest
+    # 默认 5672
+#    port: 5672
+    # 默认访问 "/"
+#    virtual-host:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

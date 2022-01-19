@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GITIDEATest.iml" filepath="$PROJECT_DIR$/GITIDEATest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-order-service-consumer/boot-order-service-consumer.iml" filepath="$PROJECT_DIR$/boot-order-service-consumer/boot-order-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-user-service-provider/boot-user-service-provider.iml" filepath="$PROJECT_DIR$/boot-user-service-provider/boot-user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmallinterface/gmallinterface.iml" filepath="$PROJECT_DIR$/gmallinterface/gmallinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" filepath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/spring-boot-01-helloworld-quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" filepath="$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" filepath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-cache/springboot-08-cache.iml" filepath="$PROJECT_DIR$/springboot-08-cache/springboot-08-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-09-amqp/springboot-09-amqp.iml" filepath="$PROJECT_DIR$/springboot-09-amqp/springboot-09-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10-elastic/springboot-10-elastic.iml" filepath="$PROJECT_DIR$/springboot-10-elastic/springboot-10-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
+    </modules>
+  </component>
+</project>

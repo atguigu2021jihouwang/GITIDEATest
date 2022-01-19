@@ -1,0 +1,23 @@
+# 配置elasticsearch
+spring:
+  elasticsearch:
+    jest:
+      # 默认 localhost
+      uris: http://127.0.0.1:9200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

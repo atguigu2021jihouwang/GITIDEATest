@@ -1,0 +1,31 @@
+# 取值
+#person:
+#  age: 18
+#  boss: false
+#  birth: 2021/8/20
+#  maps: {k1: v1,k2: 12}
+#  lists:
+#   - cat
+#   - dog
+#   - pig
+#  dog:
+#   name: 旺财
+#   age: 2
+#  last-name: 张三
+
+# 第2种方式,使用  .yml文件配置切换环境
+server:
+  port: 8081
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8084
+spring:
+  profiles: dev
+---
+server:
+  port: 8085
+spring:
+  profiles: prod

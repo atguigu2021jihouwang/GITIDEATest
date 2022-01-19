@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+		http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd
+		http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+		
+	<!-- 1、指定当前服务/应用的名字（同样的服务名字相同，不要和别的服务同名）-->
+	<dubbo:application name="boot-user-service-provider"></dubbo:application>
+	
+	<!-- 2、指定注册中心的位置 -->
+	<!-- <dubbo:registry address="zookeeper://127.0.0.1:2181"></dubbo:registry> -->
+	<dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"></dubbo:registry>Bean
+	
+	<!-- 3、指定通信规则（通信协议？通信端口） 如果启动3次,端口号需要改  20880,20881,29882-->
+	<dubbo:protocol name="dubbo" port="20886"></dubbo:protocol>
+	
+	<!-- 4、暴露服务   
+		ref：指向服务的真正的实现对象;
+	-->
+	<dubbo:service 
+		interface="com.atguigu.gmall.service.UserService" ref="userServiceImpl" timeout="1000" version="1.0.0">
+		<!-- 注解做不到只对方法进行操作-->
+		<dubbo:method name="getUserAddressList" timeout="1000"></dubbo:method>
+	</dubbo:service>
+
+	<!-- 服务的实现 -->
+	<bean id="userServiceImpl" class="com.atguigu.gmall.service.impl.UserServiceImpl"></bean>
+	
+	<!-- 统一配置-->
+	<dubbo:provider timeout="1000"></dubbo:provider>
+
+	<!-- 通过注册的方式动态的链接监控中心 -->
+	<dubbo:monitor protocol="registry"></dubbo:monitor>
+	
+</beans>

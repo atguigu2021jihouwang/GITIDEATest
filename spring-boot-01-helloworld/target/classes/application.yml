@@ -1,0 +1,16 @@
+server:
+  port: 8081
+person:
+  last-name: zhangsan
+  age: 18
+  boss: false
+  birth: 2021/8/20
+  maps: {k1: v1,k2: 12}
+  lists:
+   - cat
+   - dog
+   - pig
+  dog:
+   name: 旺财
+   age: 2
+

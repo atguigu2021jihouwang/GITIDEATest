@@ -1,0 +1,27 @@
+# 配置数据源参数
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/spring_cache
+    driver-class-name: com.mysql.jdbc.Driver
+
+# mybatis 全局配置
+mybatis:
+  # 指定全局配置文件位置
+  config-location: classpath:mybatis/mybatis-config.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

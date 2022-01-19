@@ -1,0 +1,5 @@
+如果是访问jar包里面的静态资源
+   举例: localhost:8080/webjars/jquery/3.3.1/jquery.js
+
+访问静态资源: 自己编辑的文件
+   举例: http://localhost:8080/asserts/js/bootstrap.min.js (需要放在springBoot项目指定的位)
