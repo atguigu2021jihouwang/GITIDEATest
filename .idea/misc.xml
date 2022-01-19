@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/boot-user-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/boot-order-service-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-task/pom.xml" />
       </list>
     </option>
   </component>

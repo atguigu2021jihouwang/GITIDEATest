@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-08-cache/springboot-08-cache.iml" filepath="$PROJECT_DIR$/springboot-08-cache/springboot-08-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-09-amqp/springboot-09-amqp.iml" filepath="$PROJECT_DIR$/springboot-09-amqp/springboot-09-amqp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-10-elastic/springboot-10-elastic.iml" filepath="$PROJECT_DIR$/springboot-10-elastic/springboot-10-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-task/springboot-11-task.iml" filepath="$PROJECT_DIR$/springboot-11-task/springboot-11-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
     </modules>
   </component>

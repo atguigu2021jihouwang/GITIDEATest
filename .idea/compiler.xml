@@ -20,6 +20,7 @@
         <module name="springboot-08-cache" />
         <module name="springboot-09-amqp" />
         <module name="springboot-10-elastic" />
+        <module name="springboot-11-task" />
         <module name="zookeeper" />
       </profile>
     </annotationProcessing>
@@ -39,6 +40,7 @@
       <module name="springboot-08-cache" target="1.8" />
       <module name="springboot-09-amqp" target="1.8" />
       <module name="springboot-10-elastic" target="1.8" />
+      <module name="springboot-11-task" target="1.8" />
       <module name="zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>

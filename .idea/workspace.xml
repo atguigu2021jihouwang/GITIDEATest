@@ -5,571 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76c6e7aa-89fb-4fb0-9a0a-bee62d0d2639" name="Default" comment="springboot">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/resources/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/data/elasticsearch/nodes/0/_state/global-1.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/data/elasticsearch/nodes/0/node.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_autoconfigure_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_starter_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_4_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_1_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spatial4j_spatial4j_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_jsr166e_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_searchbox_jest_6_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_searchbox_jest_common_6_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_expression_processor_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_5_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_2_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_securesm_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_7_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_7_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_2_1_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_11_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_16_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_3_0_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_4_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_npm_popper_js_1_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GITIDEATest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/BootOrderServiceConsumerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall/controller/OrderController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall/service/impl/OrderServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/consumer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/test/java/com/atguigu/BootOrderServiceConsumerApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/com/atguigu/BootUserServiceProviderApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/com/atguigu/gmall/config/MyDubboConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/com/atguigu/gmall/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/dubbo.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/provider.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boot-user-service-provider/src/test/java/com/atguigu/BootUserServiceProviderApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/gmallinterface.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/src/main/java/com/atguigu/gmall/bean/UserAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/src/main/java/com/atguigu/gmall/service/OrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/src/main/java/com/atguigu/gmall/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmallinterface/src/test/java/com/atguigu/gmall/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/src/main/java/com/atguigu/springboot/SpringBoot01HelloworldQuickApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/src/main/java/com/atguigu/springboot/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld-quick/src/test/java/com/atguigu/springboot/SpringBoot01HelloworldQuickApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/atguigu/HelloWorldMainApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/atguigu/bean/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/atguigu/bean/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/java/com/atguigu/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-01-helloworld/src/test/java/com/atguigu/HelloWorldMainApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/config/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/src/main/java/com/atguigu/springboot/SpringBoot02Config02Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/src/main/java/com/atguigu/springboot/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/src/main/resources/config/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/src/test/java/com/atguigu/springboot/SpringBoot02Config02ApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/zookeeper/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/zookeeper/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/zookeeper/src/test/java/com/atguigu/zookeeper/TestZookeeper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config-02/zookeeper/zookeeper.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/SpringBoot02ConfigApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/bean/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/bean/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/bean/Person_01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/config/MyAppConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/java/com/atguigu/springboot/service/HelloService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/application-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/application-prod.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/main/resources/person.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-02-config/src/test/java/com/atguigu/springboot/SpringBoot02ConfigApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/src/main/java/com/atguigu/springboot/SpringBoot03LoggingApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-03-logging/src/test/java/com/atguigu/springboot/SpringBoot03LoggingApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/SpringBoot04WebRestfulcrudApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/component/LoginHandlerInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/component/MyErrorAttributes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/component/MyLocaleResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/config/MyMvcConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/config/MyServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/controller/MyExceptionHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/dao/DepartmentDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/dao/EmployeeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/entities/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/entities/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/exception/UserNotExistException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/filter/myFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/listener/MyListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/servlet/MyServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/i18n/login.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/i18n/login_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/i18n/login_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/css/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/css/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/img/bootstrap-solid.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/js/feather.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/static/asserts/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/commons/bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/emp/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/emp/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/emp/update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/error/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/error/4xx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/error/5xx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/resources/templates/success.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/test/java/com/atguigu/springbootweb/SpringBoot04WebRestfulcrudApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springbootdatajdbc/SpringBoot06DataJdbcApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springbootdatajdbc/config/DruidConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springbootdatajdbc/controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/department.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/test/java/com/atguigu/springbootdatajdbc/SpringBoot06DataJdbcApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springbootdatajpa/SpringBoot06DataJpaApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springbootdatajpa/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springbootdatajpa/entity/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springbootdatajpa/repository/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/test/java/com/atguigu/springbootdatajpa/SpringBoot06DataJpaApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/SpringBoot06DataMybatisApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/bean/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/bean/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/config/DruidConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/config/MyBatisConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/controller/DeptController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/mapper/DepartmentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springbootdatamybatis/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/mybatis/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql/department.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql/employee.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/test/java/com/atguigu/springbootdatamybatis/SpringBoot06DataMybatisApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/springboot-08-cache.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/Springboot08CacheApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/bean/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/bean/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/config/MyCacheConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/config/MyRedisConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/controller/DeptController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/mapper/DepartmentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/service/DeptService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/service/EmployeeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/main/resources/mybatis/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-08-cache/src/test/java/com/atguigu/springbootcache/Springboot08CacheApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/springboot-09-amqp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/java/com/atguigu/springbootamqp/Springboot09AmqpApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/java/com/atguigu/springbootamqp/bean/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/java/com/atguigu/springbootamqp/config/MyAMQPConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/java/com/atguigu/springbootamqp/service/BookService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-09-amqp/src/test/java/com/atguigu/springbootamqp/Springboot09AmqpApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/springboot-10-elastic.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/src/main/java/com/atguigu/springbootelastic/Springboot10ElasticApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/src/main/java/com/atguigu/springbootelastic/bean/Article.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-10-elastic/src/test/java/com/atguigu/springbootelastic/Springboot10ElasticApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/src/main/java/DistributeClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/src/main/java/DistributeServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/src/test/java/com/atguigu/zookeeper/TestZookeeper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-11-task/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring-boot-01-helloworld/target/" />
@@ -588,6 +25,7 @@
     <ignored path="$PROJECT_DIR$/boot-user-service-provider/target/" />
     <ignored path="$PROJECT_DIR$/boot-order-service-consumer/target/" />
     <ignored path="$PROJECT_DIR$/zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-11-task/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -612,7 +50,18 @@
     <favorites_list name="GITIDEATest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-11-task/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -668,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/atguigu/springbootweb/config/MyMvcConfig.java" />
         <option value="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/config/MyCacheConfig.java" />
         <option value="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/mapper/EmployeeMapper.java" />
@@ -719,6 +167,7 @@
         <option value="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/provider.xml" />
         <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot-08-cache/src/main/java/com/atguigu/springbootcache/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/springboot-11-task/pom.xml" />
       </list>
     </option>
   </component>
@@ -737,7 +186,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Work\repository\repo" />
-        <option name="mavenHome" value="C:/Work/apache-maven-3.5.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.5.4" />
         <option name="userSettingsFile" value="C:\Work\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -799,9 +248,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1355,12 +804,100 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="HelloWorldMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.HelloWorldMainApplication" />
+      <module name="spring-boot-01-helloworld" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot03LoggingApplication" />
+      <module name="spring-boot-03-logging" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Springboot08CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootcache.Springboot08CacheApplication" />
+      <module name="springboot-08-cache" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootdatamybatis.SpringBoot06DataMybatisApplication" />
+      <module name="spring-boot-06-data-mybatis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Springboot09AmqpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootamqp.Springboot09AmqpApplication" />
+      <module name="springboot-09-amqp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootdatajpa.SpringBoot06DataJpaApplication" />
+      <module name="spring-boot-06-data-jpa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootweb.SpringBoot04WebRestfulcrudApplication" />
+      <module name="spring-boot-04-web-restfulcrud" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02Config02Application" />
+      <module name="spring-boot-02-config-02" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootdatajdbc.SpringBoot06DataJdbcApplication" />
+      <module name="spring-boot-06-data-jdbc" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot01HelloworldQuickApplication" />
+      <module name="spring-boot-01-helloworld-quick" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Springboot10ElasticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springbootelastic.Springboot10ElasticApplication" />
+      <module name="springboot-10-elastic" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="16">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.BootUserServiceProviderApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.BootOrderServiceConsumerApplication" />
       <item index="2" class="java.lang.String" itemvalue="Application.BootUserServiceProviderApplication" />
       <item index="3" class="java.lang.String" itemvalue="Application.BootOrderServiceConsumerApplication" />
       <item index="4" class="java.lang.String" itemvalue="Application.SpringBoot06DataMybatisApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.HelloWorldMainApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.SpringBoot03LoggingApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.Springboot08CacheApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.SpringBoot06DataMybatisApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.Springboot09AmqpApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.SpringBoot06DataJpaApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.SpringBoot04WebRestfulcrudApplication" />
+      <item index="12" class="java.lang.String" itemvalue="Spring Boot.SpringBoot02Config02Application" />
+      <item index="13" class="java.lang.String" itemvalue="Spring Boot.SpringBoot06DataJdbcApplication" />
+      <item index="14" class="java.lang.String" itemvalue="Spring Boot.SpringBoot01HelloworldQuickApplication" />
+      <item index="15" class="java.lang.String" itemvalue="Spring Boot.Springboot10ElasticApplication" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -1492,6 +1029,7 @@
       <workItem from="1641865922478" duration="3950000" />
       <workItem from="1641982667555" duration="419000" />
       <workItem from="1642579996757" duration="4208000" />
+      <workItem from="1642586691013" duration="380000" />
     </task>
     <servers />
   </component>
@@ -1528,7 +1066,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440709000" />
+    <option name="totallyTimeSpent" value="441089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1543,34 +1081,34 @@
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279503" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19816415" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6520147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32722834" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31587473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44688645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844934" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6520147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32722834" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31047517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44688645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844934" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1645,13 +1183,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/src/test/java/com/atguigu/springbootdatajdbc/SpringBoot06DataJdbcApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springbootdatajdbc/config/DruidConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1786,7 +1317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1802,7 +1332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1810,10 +1339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="e#453#454#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1821,7 +1346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1829,7 +1353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1837,7 +1360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1845,7 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1864,7 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1872,7 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1902,7 +1421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1910,7 +1428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1928,7 +1445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1936,7 +1452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-98">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1944,7 +1459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1257">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1952,7 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1960,7 +1473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1968,7 +1480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1976,7 +1487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-216">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1984,7 +1494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1992,7 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2000,7 +1508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2008,7 +1515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1176">
           <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2024,7 +1530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2032,7 +1537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2040,7 +1544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-366">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2048,7 +1551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2056,6 +1558,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-837">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-11-task/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
