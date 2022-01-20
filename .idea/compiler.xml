@@ -37,6 +37,7 @@
       <module name="spring-boot-06-data-jdbc" target="1.8" />
       <module name="spring-boot-06-data-jpa" target="1.8" />
       <module name="spring-boot-06-data-mybatis" target="1.8" />
+      <module name="springboot-04-task" target="1.8" />
       <module name="springboot-08-cache" target="1.8" />
       <module name="springboot-09-amqp" target="1.8" />
       <module name="springboot-10-elastic" target="1.8" />

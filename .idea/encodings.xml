@@ -13,8 +13,11 @@
     <file url="file://$PROJECT_DIR$/spring-boot-06-data-jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-06-data-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-06-data-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-task" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-08-cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-09-amqp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-10-elastic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-task" charset="UTF-8" />
   </component>
 </project>
